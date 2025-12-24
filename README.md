@@ -36,7 +36,7 @@
 
 ## 🧠 Most Used Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,nextjs,django,flask,fastapi,opencv&theme=dark" />
 </p>
 
 ---
