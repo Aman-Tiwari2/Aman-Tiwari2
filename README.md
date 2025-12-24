@@ -10,10 +10,14 @@
 ---
 
 ## 🚀 About Me
-- 💻 Full Stack Developer (React + Node.js)
-- 🧠 Passionate about **System Design, HLD, LLD**
-- 🔥 Building & sharing tech through **TechWithAman**
-- 🛠 Currently working on scalable backend & search systems
+
+- 💻 Full Stack Developer with strong experience in **React, Node.js, and modern backend systems**
+- 🧠 Deeply interested in **System Design, High-Level Design (HLD) & Low-Level Design (LLD)**
+- 🔍 Passionate about building **scalable, search-driven, and performance-optimized systems**
+- 🤖 Skilled in **Python, Computer Vision, and AI-powered applications**
+- 📹 Creator of **TechWithAman**, where I explain **how real systems work** using comics, reels, and visual storytelling
+- 🛠 Actively working on **backend architecture, Elasticsearch, APIs, and distributed systems**
+- 🚀 Love turning complex engineering problems into **simple, elegant, real-world solutions**
 
 ---
 
