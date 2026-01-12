@@ -11,12 +11,12 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with strong experience in **React, Node.js, and modern backend systems**
+- 💻 Full Stack Developer with strong experience in **React, Node.js, and modern backend systems, Python**
 - 🧠 Deeply interested in **System Design, High-Level Design (HLD) & Low-Level Design (LLD)**
-- 🔍 Passionate about building **scalable, search-driven, and performance-optimized systems**
+- 🔍 Passionate about building **scalable and performance-optimized systems**
 - 🤖 Skilled in **Python, Computer Vision, and AI-powered applications**
 - 📹 Creator of **TechWithAman**, where I explain **how real systems work** using comics, reels, and visual storytelling
-- 🛠 Actively working on **backend architecture, Elasticsearch, APIs, and distributed systems**
+- 🛠 Actively working on **backend architecture, APIs, and distributed systems**
 - 🚀 Love turning complex engineering problems into **simple, elegant, real-world solutions**
 
 ---
@@ -55,8 +55,6 @@
 | **College CRM** | College project & student management system | MERN Stack, REST APIs |
 | **Hand Detection Module** | Real-time hand tracking & gesture detection | Python, OpenCV, MediaPipe |
 | **AI & Computer Vision Projects** | Object detection and vision-based applications | Python, OpenCV |
-| **System Design Concepts** | Tech explained with comics | HLD, LLD |
-
 ---
 
 ## 🌐 Connect With Me
